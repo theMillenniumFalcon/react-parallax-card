@@ -1,1 +1,1 @@
-#react-parallax-card
+*react-parallax-card
